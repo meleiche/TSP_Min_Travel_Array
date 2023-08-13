@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Counter.cpp
+  General.cpp
+  Graph.cpp
+  Link.cpp
+E:\Research_2023\TSP_2023\Program\TSP_02\TSP_02\Link.h(2,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+E:\Research_2023\TSP_2023\Program\TSP_02\TSP_02\Link.cpp(73,20): warning C4305: '=': truncation from 'unsigned __int64' to 'double'
+  Min_Travel.cpp
+  Node.cpp
+  TSP_02.cpp
+E:\Research_2023\TSP_2023\Program\TSP_02\TSP_02\TSP_02.h(11,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+E:\Research_2023\TSP_2023\Program\TSP_02\TSP_02\TSP_02.cpp(302,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  TSP_02.vcxproj -> E:\Research_2023\TSP_2023\Program\TSP_02\Debug\TSP_02.exe
